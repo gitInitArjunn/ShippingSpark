@@ -1,0 +1,1 @@
+This repository consists of my attempt to solve AmazonSalesData Data analysis for various questions
